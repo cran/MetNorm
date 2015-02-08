@@ -1,0 +1,13 @@
+Package: MetNorm
+Type: Package
+Title: Statistical Methods for Normalizing Metabolomics Data
+Version: 0.1
+Date: 2015-02-08
+Author: Alysha M De Livera
+Maintainer: Alysha M De Livera <alyshad@unimelb.edu.au>
+Description: Metabolomics data are inevitably subject to a component of unwanted variation, due to factors such as batch effects, matrix effects, and confounding biological variation. This package contains a collection of R functions which can be used to remove unwanted variation and obtain normalized metabolomics data. 
+License: GPL-2 | GPL-3
+Packaged: 2015-02-08 13:03:29 UTC; alyshad
+NeedsCompilation: no
+Repository: CRAN
+Date/Publication: 2015-02-08 17:13:45

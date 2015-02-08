@@ -1,0 +1,12 @@
+630014aa9a9b3191f8852b06cedaefad *DESCRIPTION
+f9bd48f1d5bf8e5ebcaaf8c2066f13c5 *NAMESPACE
+7ebf2ce506bf3516042c598fb514f704 *R/NormalizeRUVRand.R
+f8857111b1e252c6a495f969ddf2341e *R/NormalizeRUVRandClust.R
+7e4baf3690b4d9e0a793543ac25e1d0c *R/RUVRand.R
+ecf1f335a95481ac1cd0f6b7bfb9627b *R/print.normdata.R
+dda3182b617b8001b126f2cb4976fb4e *data/UV.RData
+e02750ce05eb5f75b7b6cf986d4d36a9 *man/MetNorm-package.Rd
+903a9ee50313dbdb0ed59b5caec52db0 *man/NormalizeRUVRand.Rd
+2ee791a1d9c8d047383394e9876ae4c4 *man/NormalizeRUVRandClust.Rd
+8dcae7a2efdf3311316a0fb2be30be29 *man/UV.Rd
+cebf6d1f969a886b55366676dcc1b123 *man/normdata.Rd
